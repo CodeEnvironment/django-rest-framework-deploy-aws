@@ -1,0 +1,9 @@
+.vscode
+*.sqlite
+*.pyc
+
+eb-virt
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
